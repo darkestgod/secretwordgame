@@ -1,2 +1,2 @@
-# secretwordgame
-a python guess the word game
+# Pythonwordgame
+a python guess the word game!
